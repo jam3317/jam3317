@@ -24,5 +24,5 @@ AI 코딩 에이전트를 활용한 1인 개발 워크플로우
 ### 링크
 
 - 🌐 [포트폴리오](https://portfolio-yongjae.vercel.app)
-- ✍️ [PO 성장기 (블로그)](https://yjcoding.tistory.com)
+- ✍️ [판단의기록 (블로그)](https://yjcoding.tistory.com)
 - 📧 jam3317@gmail.com
